@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------------------
+Emmet
+BracketHighlighter
+AutoFileName
+CSS3
+Sass
+Highlighter
+Sublime Linter
+Trailing Spaces
+Gist  
+------------------------------------------------------------------------------------------
+{ "keys": ["alt+shift+f"], "command": "reindent" },  <!-- выравнивает текст -->
+------------------------------------------------------------------------------------------
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"highlight_modified_tabs": true,
+	"font_size": 14,
+	"margin": 0,
+	"tab_size": 2,
+	"highlight_line": true,
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
+------------------------------------------------------------------------------------------
