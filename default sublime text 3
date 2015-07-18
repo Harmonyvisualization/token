@@ -7,6 +7,7 @@ Sass
 Highlighter
 Sublime Linter
 Trailing Spaces
+goto-css-declaration                             win+alt+.
 Gist  
 ------------------------------------------------------------------------------------------
 { "keys": ["alt+shift+f"], "command": "reindent" },  <!-- выравнивает текст -->
