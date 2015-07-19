@@ -5,7 +5,7 @@ AutoFileName
 CSS3
 Sass
 Highlighter
-Sublime Linter
+SublimeLinter
 goto-css-declaration                             win+alt+.
 Gist  
 ------------------------------------------------------------------------------------------
@@ -15,6 +15,7 @@ Gist
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"highlight_modified_tabs": true,
 	"font_size": 14,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
 	"margin": 0,
 	"tab_size": 2,
 	"highlight_line": true,
